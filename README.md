@@ -2,9 +2,9 @@
 # 3588_nanotrack
 "# 3588_nanotrack" 
 
-mkdir build
-cd build
+mkdir build /
+cd build /
 
-rm -rf *
-cmake ..
-make -j5
+rm -rf * / 
+cmake .. /
+make -j5 /
